@@ -1,4 +1,4 @@
-# Python Tutorials
+# Java Tutorials
 
 by San Diego Code
 
